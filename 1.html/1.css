@@ -1,0 +1,16 @@
+.second{
+    margin: 0%;
+    position: relative;
+    filter: brightness(30%);
+}
+.text {
+    position: absolute;
+    left: 334px;
+    top: 92px;
+    color: white;
+    font-family: revert;
+    font-size: 62px;
+    }
+body{
+    margin: 0%;
+}

@@ -1,0 +1,232 @@
+.header{
+    position: fixed;
+    width: 100%;
+    height: 45px;
+  
+}
+.main{
+    width: 100%;
+    height: 100vh;
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+body{
+    margin: 0;
+}
+.logo {
+    height: 13px;
+    width: 122px;
+    margin-top: 20px;
+    margin-left: 47px;
+  }
+  .model3{
+    margin-top: -19px;
+    margin-left: 490px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+  }
+  .models{
+    margin-top: -31px;
+    margin-left: 587px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+  }
+  .modelx{
+    margin-top: -30px;
+    margin-left: 681px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+  }
+  .modely{
+    margin-top: -29px;
+    margin-left: 781px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+  }
+  .solarroof{
+    margin-top: -28px;
+    margin-left: 880px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+  }
+  .solarpanel{
+    margin-top: -29px;
+    margin-left: 994px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+  }
+  .menu {
+    margin-top: -30px;
+    margin-left: 1300px;
+    font-size: 16px;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    font-family: 'segoe ui';
+    font-weight: 500;
+  }
+  .text{
+    position: fixed;
+    padding-top: 113px;
+    padding-left: 674px;
+    font-size: 45px;
+    overflow-y: scroll;
+  }
+  section{
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+  }
+  .tt {
+    padding-top: 117px;
+    margin-top: 0px;
+    padding-left: 692px;
+    font-size: 45px;
+    font-family: 'segoe ui';
+    font-weight: 600;
+    color: rgb(24, 24, 24);
+  }
+  .buy {
+    padding-top: 5px;
+    margin-top: -27px;
+    padding-left: 655px;
+    font-family: initial;
+    font-size: 17px;
+    font-weight: 1;
+  }
+  .link {
+    position: absolute;
+    padding-left: 776px;
+    color: black;
+    margin-top: -35px;
+    font-size: 17px;
+  }
+  .btn {
+    background-color: #3A3C40;
+    margin-left: 533px;
+    margin-top: 350px;
+    width: 264px;
+    height: 42px;
+    border-radius: 10px;
+    color: white;
+    border: 0px;
+    font-size: 16px;
+    font-family: 'segoe ui';
+  }
+  .btntwo {
+    background-color: #E7E7E5;
+    margin-left: 820px;
+    margin-top: 385px;
+    width: 264px;
+    height: 42px;
+    border-radius: 10px;
+    color: black;
+    border: 0px;
+    font-size: 16px;
+    font-family: 'segoe ui';
+    font-weight: 548;
+  }
+  .btndiv{
+    width: 6%;
+    height: 35px;
+  }
+  .last{
+    height: 100vh;
+    width: 100%;
+  }
+  .tl{
+      padding-top: 117px;
+      margin-top: 0px;
+      padding-left: 660px;
+      font-size: 45px;
+      font-family: 'segoe ui';
+      font-weight: 600;
+      color: rgb(24, 24, 24);
+    }
+    .btnl{
+        background-color: #171A20;
+        margin-left: 655px;
+        margin-top: 410px;
+        width: 264px;
+        height: 42px;
+        border-radius: 10px;
+        color: white;
+        border: 0px;
+        font-size: 16px;
+        font-family: 'segoe ui';
+        font-weight: 548;
+    }
+    .rooter{
+      position: static;
+      width: 100%;
+      height: 45px;
+  }
+  .about{
+    margin-top: -19px;
+    margin-left: 413px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 60;
+    color: #A5A6A8;
+  }
+  .privacy{
+    margin-top: -32px;
+    margin-left: 547px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 60;
+    color: #A5A6A8;
+  }
+  .recall{
+    margin-top: -28px;
+    margin-left: 686px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 60;
+    color: #A5A6A8;
+  }
+  .contact{
+    margin-top: -31px;
+    margin-left: 815px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 60;
+    color: #A5A6A8;
+  }
+  .carear{
+    margin-top: -29px;
+    margin-left: 904px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 60;
+    color: #A5A6A8;
+  }
+  .news{
+    margin-top: -29px;
+    margin-left: 986px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 60;
+    color: #A5A6A8;
+  }
+  .engage{
+    margin-top: -30px;
+    margin-left: 1051px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 60;
+    color: #A5A6A8;
+  }
+  .location{
+    margin-top: -31px;
+    margin-left: 1124px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 60;
+    color: #A5A6A8;
+  }
+  
